@@ -1,0 +1,51 @@
+.parent{
+  display: flex;
+  align-items: center;
+}
+.child{
+  margin: 5px;
+}
+.btn{
+  background-color: purple;
+  margin: 5px;
+  border-radius: 50px;
+  width: 100px;
+  color: white;
+  border: ;
+}
+.parentt{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.child1{
+	margin: 40px;
+}
+.parentn{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	height: 40vh;
+	margin-top: 150px;
+}
+.childq {
+	width: 300px;
+	height: 35vh;
+	margin: 5px;
+}
+.img2 {
+	width: 300px;
+	height:300px;
+}
+.navbar{
+	border: 1px solid black;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 50px;
+}
+select,input{
+	background-color: transparent;
+	border: 0;
+}
